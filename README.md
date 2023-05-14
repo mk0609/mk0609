@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi,Mohit Kumar there 👋
 
 # 💫 About Me:
 I'm final year student at Vellore Institute of Technology.<br>likes to build software<br>Can contribute in coding and web development.<br>
